@@ -1014,7 +1014,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cloudinary-devs/cloudinary-plugin.git",
-        "sha": "86be53409e3fb1c465cd5ff4d1dc937a2860f45c"
+        "sha": "2d8752f0e9b1c1cb580049302783c6dd88881839"
       },
       "homepage": "https://cloudinary.com/documentation"
     },
