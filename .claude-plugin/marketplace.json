@@ -1280,7 +1280,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/astronomer/agents.git",
-        "sha": "35b9610bb2710c37ca11326c4cbf7818b6725fec"
+        "sha": "ca2d2e72aa216864207a3ad8c502010ff40b1dab"
       },
       "homepage": "https://github.com/astronomer/agents"
     },
